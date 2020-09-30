@@ -1,5 +1,4 @@
 asgiref==3.2.10
-astroid @ file:///C:/ci/astroid_1592487315634/work
 beautifulsoup4==4.9.2
 bs4==0.0.1
 certifi==2020.6.20
@@ -13,12 +12,10 @@ django-heroku==0.3.1
 gunicorn==20.0.4
 heroku==0.1.4
 idna==2.10
-isort @ file:///C:/ci/isort_1600697297430/work
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 psycopg2==2.8.6
 pycparser==2.20
-pylint @ file:///C:/ci/pylint_1598617153160/work
 pyOpenSSL==19.1.0
 python-dateutil==1.5
 pytz==2020.1
@@ -26,7 +23,6 @@ requests==2.24.0
 six==1.15.0
 soupsieve==2.0.1
 sqlparse==0.3.1
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 urllib3==1.25.10
 whitenoise==5.2.0
 wincertstore==0.2
